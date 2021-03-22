@@ -4,7 +4,7 @@
 ## Description
 Here we have a simple budget tracker progressive web application (PWA) that works offline and can be downloaded to your desktop or mobile device.
             
-View the deployed page at [Budget Tracker](/).
+View the deployed page at [Budget Tracker](https://simple-budget-tracker-app.herokuapp.com/).
 
 ## Table of Contents
 * [Installation](#Installation)
